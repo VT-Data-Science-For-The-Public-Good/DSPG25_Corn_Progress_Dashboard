@@ -430,7 +430,7 @@ ui <- fluidPage(
         
         br(),
         
-        p("Special thanks to the Virginia Corn Board for supporting this project and to Robert Harper (Virginia Farm Bureau) for his insights during the project!"),
+        p("This work is supported by the U.S. Department of Agriculture, National Institute of Food and Agriculture as part of the DATA-ACRE program [grant no. 2022-67037-36639 / project accession no. 2021-10424]. Special thanks to the Virginia Corn Board for supporting this project and to Robert Harper (Virginia Farm Bureau) for his insights during the project!"),
         
         fluidRow(
           column(6,
